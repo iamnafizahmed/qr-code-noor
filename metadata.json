@@ -1,0 +1,6 @@
+{
+  "name": "Noor The Realtor",
+  "description": "An elegant digital business card for Noor The Realtor, a licensed real estate agent in Newfoundland & Labrador, Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
