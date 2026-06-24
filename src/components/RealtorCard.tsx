@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import noorLogo from '../assets/images/noor.avif';
+import noorLogo from '../assets/images/noor.png';
 import { 
   Phone, 
   Mail, 
